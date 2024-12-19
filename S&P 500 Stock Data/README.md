@@ -10,7 +10,7 @@ This project focuses on analyzing historical S&P 500 stock data and building a s
 - Visualized the trading volume over time for specific stocks.
 - Generated a correlation heatmap to understand relationships between key numeric features:
 
-![Correlation Heatmap](#)
+![Correlation Heatmap](Images/Correlation.png)
 
 ### Feature Engineering
 - Added new features for better prediction:
@@ -54,7 +54,7 @@ The most impactful features in the prediction model:
 | Daily Return    | 0.12       |
 | Volume          | 0.06       |
 
-![Feature Importance](#)
+![Feature Importance](Images/featureImportance.png)
 
 ---
 
@@ -71,7 +71,7 @@ The most impactful features in the prediction model:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/stock-analysis
+   git clone https://github.com/ricardojvsoares/DataScienceProjects/tree/main/S%26P%20500%20Stock%20Data
    ```
 2. Install dependencies:
    ```bash
@@ -93,10 +93,4 @@ The most impactful features in the prediction model:
 - **Data Source**: [Kaggle - S&P 500 Stock Data](https://www.kaggle.com/datasets/camnugent/sandp500/data)
 - **Libraries**: Pandas, Matplotlib, Seaborn, Scikit-learn
 
----
-
-## Contact
-For questions or collaboration:
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- GitHub: [your-username](https://github.com/your-username)
 
